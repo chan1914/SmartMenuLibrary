@@ -7,6 +7,10 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SmartMenuLibrary", "SmartMe
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SmartMenuTest", "SmartMenuTest\SmartMenuTest.csproj", "{6CECF9DE-2A2D-49B4-B7B3-9348D41D78D8}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CalculatorLibrary.cs", "CalculatorLibrary.cs\CalculatorLibrary.cs.csproj", "{0BB6275B-F6D7-4CDE-AAC8-123505C8B9B1}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CalculatorTest", "CalculatorTest\CalculatorTest.csproj", "{1DE2C09C-EEE6-4DEF-948F-72A5A5ADE033}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -21,6 +25,14 @@ Global
 		{6CECF9DE-2A2D-49B4-B7B3-9348D41D78D8}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{6CECF9DE-2A2D-49B4-B7B3-9348D41D78D8}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{6CECF9DE-2A2D-49B4-B7B3-9348D41D78D8}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0BB6275B-F6D7-4CDE-AAC8-123505C8B9B1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0BB6275B-F6D7-4CDE-AAC8-123505C8B9B1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0BB6275B-F6D7-4CDE-AAC8-123505C8B9B1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0BB6275B-F6D7-4CDE-AAC8-123505C8B9B1}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1DE2C09C-EEE6-4DEF-948F-72A5A5ADE033}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1DE2C09C-EEE6-4DEF-948F-72A5A5ADE033}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1DE2C09C-EEE6-4DEF-948F-72A5A5ADE033}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1DE2C09C-EEE6-4DEF-948F-72A5A5ADE033}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
